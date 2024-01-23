@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>q1plot1</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+    </head>
+    <body>
+        <canvas id="myChart"></canvas>
+
+        <script>
+            var dist = {{dist|safe}}
+            var count = {{count|safe}}
+            new Chart("myChart", {
+                type: "bar",
+                data: {
+                  labels: dist,
+                  datasets: [{
+                    label: "Number of schools each district",
+                    backgroundColor: 'rgba(255, 99, 132, 0.2)',
+                    data: count
+                  }]
+                },
+                options: {
+                    legend: {display: false},
+                    title: {
+                        display: true,
+                        text: "Number of schools each district"
+                    }
+                }
+              });
+        </script>
+        
+    </body>
+</html>

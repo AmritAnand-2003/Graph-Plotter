@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Graph Plotting</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                margin: 20px;
+                padding: 0;
+                background-color: #f4f4f4;
+            }
+    
+            h1, h2, h3 {
+                color: #333;
+            }
+
+            h1 {
+                font-size: 36px;
+                font-weight: bold;
+                margin-bottom: 20px;
+                text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+                text-align: center;
+            }
+
+            h2{
+                text-align: center;
+            }
+    
+            #question1, #question2, #question3, #question4, #question5 {
+                background-color: #fff;
+                border: 1px solid #ddd;
+                border-radius: 5px;
+                padding: 15px;
+                margin-bottom: 15px;
+            }
+    
+            button {
+                background-color: #4CAF50;
+                color: #fff;
+                border: none;
+                padding: 10px 15px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 14px;
+                margin-top: 10px;
+                cursor: pointer;
+                border-radius: 5px;
+            }
+    
+            a {
+                text-decoration: none;
+            }
+    
+            button:hover {
+                background-color: #45a049;
+            }
+        </style>        
+    </head>
+    <body>
+        <h1>ASSIGNMENT</h1>
+        <h2>PART 1</h2>
+        <div id="question1">
+            <h3>Question 1. </h3>
+            <p>Plot the graph of school per district.</p>
+            <a href="{% url 'q11' %}">
+                <button>Show Answer</button>
+            </a>
+        </div>
+        
+        <div id="question2">
+            <h3>Question 2</h3>
+            <p>Plot graph school category per district.</p>
+            <a href="{% url 'q12'  %}">
+                <button>Show Answer</button>
+            </a>
+        </div>
+        
+        <div id="question3">
+            <h3>Question 3</h3>
+            <p>Plot graph language speaks per district.</p>
+            <a href="{% url 'q13'  %}">
+                <button>Show Answer</button>
+            </a>
+        </div>
+        
+        <h2>PART 2</h2>
+        <div id="question4">
+            <h3>Question 1</h3>
+            <p>Plot graph matches played per IPL season.</p>
+            <a href="{% url 'q21'  %}">
+                <button>Show Answer</button>
+            </a>
+        </div>
+        
+        <div id="question5">
+            <h3>Question 2</h3>
+            <p>Plot graph matches won by each team per season.</p>
+            <a href="{% url 'q22'  %}">
+                <button>Show Answer</button>
+            </a>
+        </div>
+    </body>
+</html>

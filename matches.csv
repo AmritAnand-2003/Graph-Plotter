@@ -1,0 +1,636 @@
+id,season,winner
+1,2017,Sunrisers Hyderabad
+2,2017,Rising Pune Supergiant
+3,2017,Kolkata Knight Riders
+4,2017,Kings XI Punjab
+5,2017,Royal Challengers Bangalore
+6,2017,Sunrisers Hyderabad
+7,2017,Mumbai Indians
+8,2017,Kings XI Punjab
+9,2017,Delhi Daredevils
+10,2017,Mumbai Indians
+11,2017,Kolkata Knight Riders
+12,2017,Mumbai Indians
+13,2017,Gujarat Lions
+14,2017,Kolkata Knight Riders
+15,2017,Delhi Daredevils
+16,2017,Mumbai Indians
+17,2017,Rising Pune Supergiant
+19,2017,Sunrisers Hyderabad
+20,2017,Royal Challengers Bangalore
+21,2017,Sunrisers Hyderabad
+22,2017,Mumbai Indians
+23,2017,Gujarat Lions
+24,2017,Mumbai Indians
+25,2017,Rising Pune Supergiant
+26,2017,Kings XI Punjab
+27,2017,Kolkata Knight Riders
+28,2017,Rising Pune Supergiant
+29,2017,Kolkata Knight Riders
+30,2017,Gujarat Lions
+31,2017,Kolkata Knight Riders
+32,2017,Sunrisers Hyderabad
+33,2017,Rising Pune Supergiant
+34,2017,Mumbai Indians
+35,2017,Kings XI Punjab
+36,2017,Sunrisers Hyderabad
+37,2017,Mumbai Indians
+38,2017,Rising Pune Supergiant
+39,2017,Delhi Daredevils
+40,2017,Rising Pune Supergiant
+41,2017,Delhi Daredevils
+42,2017,Kings XI Punjab
+43,2017,Rising Pune Supergiant
+44,2017,Mumbai Indians
+45,2017,Kolkata Knight Riders
+46,2017,Gujarat Lions
+47,2017,Sunrisers Hyderabad
+48,2017,Kings XI Punjab
+49,2017,Delhi Daredevils
+50,2017,Kings XI Punjab
+51,2017,Delhi Daredevils
+52,2017,Sunrisers Hyderabad
+53,2017,Mumbai Indians
+54,2017,Rising Pune Supergiant
+55,2017,Royal Challengers Bangalore
+56,2017,Rising Pune Supergiant
+57,2017,Kolkata Knight Riders
+58,2017,Mumbai Indians
+59,2017,Mumbai Indians
+60,2008,Kolkata Knight Riders
+61,2008,Chennai Super Kings
+62,2008,Delhi Daredevils
+63,2008,Royal Challengers Bangalore
+64,2008,Kolkata Knight Riders
+65,2008,Rajasthan Royals
+66,2008,Delhi Daredevils
+67,2008,Chennai Super Kings
+68,2008,Rajasthan Royals
+69,2008,Kings XI Punjab
+70,2008,Rajasthan Royals
+71,2008,Chennai Super Kings
+72,2008,Deccan Chargers
+73,2008,Kings XI Punjab
+74,2008,Chennai Super Kings
+75,2008,Mumbai Indians
+76,2008,Delhi Daredevils
+77,2008,Kings XI Punjab
+78,2008,Rajasthan Royals
+79,2008,Delhi Daredevils
+80,2008,Royal Challengers Bangalore
+81,2008,Kings XI Punjab
+82,2008,Mumbai Indians
+83,2008,Rajasthan Royals
+84,2008,Kings XI Punjab
+85,2008,Deccan Chargers
+86,2008,Mumbai Indians
+87,2008,Chennai Super Kings
+88,2008,Kolkata Knight Riders
+89,2008,Rajasthan Royals
+90,2008,Mumbai Indians
+91,2008,Chennai Super Kings
+92,2008,Kolkata Knight Riders
+93,2008,Rajasthan Royals
+94,2008,Kings XI Punjab
+95,2008,Kolkata Knight Riders
+96,2008,Mumbai Indians
+97,2008,Kings XI Punjab
+98,2008,Delhi Daredevils
+99,2008,Mumbai Indians
+100,2008,Kings XI Punjab
+101,2008,Rajasthan Royals
+102,2008,Mumbai Indians
+103,2008,Chennai Super Kings
+104,2008,Delhi Daredevils
+105,2008,Rajasthan Royals
+106,2008,Kings XI Punjab
+107,2008,Royal Challengers Bangalore
+108,2008,Kings XI Punjab
+109,2008,Delhi Daredevils
+110,2008,Rajasthan Royals
+111,2008,Royal Challengers Bangalore
+112,2008,Kolkata Knight Riders
+113,2008,Rajasthan Royals
+114,2008,Chennai Super Kings
+115,2008,Rajasthan Royals
+116,2008,Chennai Super Kings
+117,2008,Rajasthan Royals
+118,2009,Mumbai Indians
+119,2009,Royal Challengers Bangalore
+120,2009,Delhi Daredevils
+121,2009,Deccan Chargers
+122,2009,Chennai Super Kings
+123,2009,Kolkata Knight Riders
+124,2009,Deccan Chargers
+125,2009,Delhi Daredevils
+126,2009,Rajasthan Royals
+127,2009,Kings XI Punjab
+128,2009,Deccan Chargers
+129,2009,Delhi Daredevils
+130,2009,Kings XI Punjab
+131,2009,Deccan Chargers
+132,2009,Mumbai Indians
+133,2009,Rajasthan Royals
+134,2009,Royal Challengers Bangalore
+135,2009,Kings XI Punjab
+136,2009,Delhi Daredevils
+137,2009,Chennai Super Kings
+138,2009,Mumbai Indians
+139,2009,Royal Challengers Bangalore
+140,2009,Rajasthan Royals
+141,2009,Chennai Super Kings
+142,2009,Kings XI Punjab
+143,2009,Royal Challengers Bangalore
+144,2009,Chennai Super Kings
+145,2009,Rajasthan Royals
+146,2009,Delhi Daredevils
+147,2009,Deccan Chargers
+148,2009,Rajasthan Royals
+149,2009,Chennai Super Kings
+150,2009,Delhi Daredevils
+151,2009,Kings XI Punjab
+152,2009,Chennai Super Kings
+153,2009,Mumbai Indians
+154,2009,Delhi Daredevils
+155,2009,Deccan Chargers
+156,2009,Royal Challengers Bangalore
+157,2009,Mumbai Indians
+158,2009,Delhi Daredevils
+159,2009,Royal Challengers Bangalore
+160,2009,Rajasthan Royals
+161,2009,Kings XI Punjab
+162,2009,Chennai Super Kings
+163,2009,Deccan Chargers
+164,2009,Kings XI Punjab
+165,2009,Delhi Daredevils
+166,2009,Kolkata Knight Riders
+167,2009,Royal Challengers Bangalore
+168,2009,Kolkata Knight Riders
+169,2009,Chennai Super Kings
+170,2009,Delhi Daredevils
+171,2009,Royal Challengers Bangalore
+172,2009,Deccan Chargers
+173,2009,Royal Challengers Bangalore
+174,2009,Deccan Chargers
+175,2010,Kolkata Knight Riders
+176,2010,Mumbai Indians
+177,2010,Delhi Daredevils
+178,2010,Kolkata Knight Riders
+179,2010,Deccan Chargers
+180,2010,Delhi Daredevils
+181,2010,Royal Challengers Bangalore
+182,2010,Chennai Super Kings
+183,2010,Mumbai Indians
+184,2010,Royal Challengers Bangalore
+185,2010,Chennai Super Kings
+186,2010,Deccan Chargers
+187,2010,Rajasthan Royals
+188,2010,Royal Challengers Bangalore
+189,2010,Deccan Chargers
+190,2010,Kings XI Punjab
+191,2010,Mumbai Indians
+192,2010,Royal Challengers Bangalore
+193,2010,Rajasthan Royals
+194,2010,Mumbai Indians
+195,2010,Rajasthan Royals
+196,2010,Kolkata Knight Riders
+197,2010,Delhi Daredevils
+198,2010,Rajasthan Royals
+199,2010,Mumbai Indians
+200,2010,Delhi Daredevils
+201,2010,Mumbai Indians
+202,2010,Chennai Super Kings
+203,2010,Delhi Daredevils
+204,2010,Kolkata Knight Riders
+205,2010,Royal Challengers Bangalore
+206,2010,Chennai Super Kings
+207,2010,Mumbai Indians
+208,2010,Kings XI Punjab
+209,2010,Delhi Daredevils
+210,2010,Rajasthan Royals
+211,2010,Chennai Super Kings
+212,2010,Rajasthan Royals
+213,2010,Kolkata Knight Riders
+214,2010,Deccan Chargers
+215,2010,Kings XI Punjab
+216,2010,Deccan Chargers
+217,2010,Royal Challengers Bangalore
+218,2010,Kings XI Punjab
+219,2010,Mumbai Indians
+220,2010,Deccan Chargers
+221,2010,Mumbai Indians
+222,2010,Chennai Super Kings
+223,2010,Royal Challengers Bangalore
+224,2010,Delhi Daredevils
+225,2010,Deccan Chargers
+226,2010,Mumbai Indians
+227,2010,Kolkata Knight Riders
+228,2010,Chennai Super Kings
+229,2010,Deccan Chargers
+230,2010,Kolkata Knight Riders
+231,2010,Mumbai Indians
+232,2010,Chennai Super Kings
+233,2010,Royal Challengers Bangalore
+234,2010,Chennai Super Kings
+235,2011,Chennai Super Kings
+236,2011,Rajasthan Royals
+237,2011,Royal Challengers Bangalore
+238,2011,Mumbai Indians
+239,2011,Pune Warriors
+240,2011,Kolkata Knight Riders
+241,2011,Rajasthan Royals
+242,2011,Mumbai Indians
+243,2011,Kings XI Punjab
+244,2011,Pune Warriors
+245,2011,Deccan Chargers
+246,2011,Kolkata Knight Riders
+247,2011,Kochi Tuskers Kerala
+248,2011,Chennai Super Kings
+249,2011,Kings XI Punjab
+250,2011,Delhi Daredevils
+251,2011,Kolkata Knight Riders
+252,2011,Kochi Tuskers Kerala
+253,2011,Deccan Chargers
+254,2011,Mumbai Indians
+255,2011,Kochi Tuskers Kerala
+256,2011,Kings XI Punjab
+257,2011,Mumbai Indians
+258,2011,Royal Challengers Bangalore
+259,2011,Delhi Daredevils
+260,2011,Mumbai Indians
+261,2011,Rajasthan Royals
+262,2011,Chennai Super Kings
+263,2011,Royal Challengers Bangalore
+264,2011,Chennai Super Kings
+265,2011,Deccan Chargers
+266,2011,Kolkata Knight Riders
+267,2011,Rajasthan Royals
+268,2011,Royal Challengers Bangalore
+269,2011,Delhi Daredevils
+270,2011,Kolkata Knight Riders
+271,2011,Rajasthan Royals
+272,2011,Chennai Super Kings
+273,2011,Mumbai Indians
+274,2011,Kochi Tuskers Kerala
+275,2011,Kolkata Knight Riders
+276,2011,Chennai Super Kings
+277,2011,Mumbai Indians
+278,2011,Kochi Tuskers Kerala
+279,2011,Delhi Daredevils
+280,2011,Royal Challengers Bangalore
+281,2011,Kolkata Knight Riders
+282,2011,Mumbai Indians
+283,2011,Royal Challengers Bangalore
+284,2011,Pune Warriors
+285,2011,Chennai Super Kings
+286,2011,Pune Warriors
+287,2011,Kings XI Punjab
+288,2011,Royal Challengers Bangalore
+289,2011,Chennai Super Kings
+290,2011,Kings XI Punjab
+291,2011,Royal Challengers Bangalore
+292,2011,Deccan Chargers
+293,2011,Kings XI Punjab
+294,2011,Kochi Tuskers Kerala
+295,2011,Deccan Chargers
+296,2011,Kings XI Punjab
+297,2011,Chennai Super Kings
+298,2011,Kolkata Knight Riders
+299,2011,Rajasthan Royals
+300,2011,Deccan Chargers
+301,2011,
+302,2011,Royal Challengers Bangalore
+303,2011,Mumbai Indians
+304,2011,Chennai Super Kings
+305,2011,Mumbai Indians
+306,2011,Royal Challengers Bangalore
+307,2011,Chennai Super Kings
+308,2012,Mumbai Indians
+309,2012,Delhi Daredevils
+310,2012,Pune Warriors
+311,2012,Rajasthan Royals
+312,2012,Royal Challengers Bangalore
+313,2012,Chennai Super Kings
+314,2012,Rajasthan Royals
+315,2012,Pune Warriors
+316,2012,Mumbai Indians
+317,2012,Kolkata Knight Riders
+318,2012,Delhi Daredevils
+319,2012,Mumbai Indians
+320,2012,Chennai Super Kings
+321,2012,Kings XI Punjab
+322,2012,Kolkata Knight Riders
+323,2012,Delhi Daredevils
+324,2012,Pune Warriors
+325,2012,Kings XI Punjab
+326,2012,Rajasthan Royals
+327,2012,Delhi Daredevils
+328,2012,Rajasthan Royals
+329,2012,Royal Challengers Bangalore
+330,2012,Kolkata Knight Riders
+331,2012,Delhi Daredevils
+332,2012,Chennai Super Kings
+333,2012,Royal Challengers Bangalore
+334,2012,Chennai Super Kings
+335,2012,Pune Warriors
+336,2012,Kings XI Punjab
+337,2012,Kolkata Knight Riders
+338,2012,Royal Challengers Bangalore
+339,2012,Delhi Daredevils
+340,2012,Mumbai Indians
+341,2012,Deccan Chargers
+342,2012,Delhi Daredevils
+343,2012,Kings XI Punjab
+344,2012,Kolkata Knight Riders
+345,2012,Delhi Daredevils
+346,2012,Mumbai Indians
+347,2012,Kolkata Knight Riders
+348,2012,Deccan Chargers
+349,2012,Delhi Daredevils
+350,2012,Kings XI Punjab
+351,2012,Mumbai Indians
+352,2012,Chennai Super Kings
+353,2012,Kolkata Knight Riders
+354,2012,Rajasthan Royals
+355,2012,Mumbai Indians
+356,2012,Royal Challengers Bangalore
+357,2012,Kolkata Knight Riders
+358,2012,Rajasthan Royals
+359,2012,Kings XI Punjab
+360,2012,Royal Challengers Bangalore
+361,2012,Chennai Super Kings
+362,2012,Royal Challengers Bangalore
+363,2012,Mumbai Indians
+364,2012,Chennai Super Kings
+365,2012,Rajasthan Royals
+366,2012,Kings XI Punjab
+367,2012,Mumbai Indians
+368,2012,Chennai Super Kings
+369,2012,Delhi Daredevils
+370,2012,Kolkata Knight Riders
+371,2012,Kings XI Punjab
+372,2012,Royal Challengers Bangalore
+373,2012,Deccan Chargers
+374,2012,Delhi Daredevils
+375,2012,Kolkata Knight Riders
+376,2012,Deccan Chargers
+377,2012,Mumbai Indians
+378,2012,Kolkata Knight Riders
+379,2012,Chennai Super Kings
+380,2012,Chennai Super Kings
+381,2012,Kolkata Knight Riders
+382,2013,Kolkata Knight Riders
+383,2013,Royal Challengers Bangalore
+384,2013,Sunrisers Hyderabad
+385,2013,Rajasthan Royals
+386,2013,Mumbai Indians
+387,2013,Kings XI Punjab
+388,2013,Sunrisers Hyderabad
+389,2013,Rajasthan Royals
+390,2013,Mumbai Indians
+391,2013,Chennai Super Kings
+392,2013,Royal Challengers Bangalore
+393,2013,Pune Warriors
+394,2013,Sunrisers Hyderabad
+395,2013,Mumbai Indians
+396,2013,Chennai Super Kings
+397,2013,Kolkata Knight Riders
+398,2013,Rajasthan Royals
+399,2013,Pune Warriors
+400,2013,Kings XI Punjab
+401,2013,Royal Challengers Bangalore
+402,2013,Sunrisers Hyderabad
+403,2013,Rajasthan Royals
+404,2013,Chennai Super Kings
+405,2013,Sunrisers Hyderabad
+406,2013,Chennai Super Kings
+407,2013,Royal Challengers Bangalore
+408,2013,Delhi Daredevils
+409,2013,Kings XI Punjab
+410,2013,Chennai Super Kings
+411,2013,Royal Challengers Bangalore
+412,2013,Kings XI Punjab
+413,2013,Mumbai Indians
+414,2013,Chennai Super Kings
+415,2013,Kolkata Knight Riders
+416,2013,Rajasthan Royals
+417,2013,Mumbai Indians
+418,2013,Chennai Super Kings
+419,2013,Delhi Daredevils
+420,2013,Rajasthan Royals
+421,2013,Mumbai Indians
+422,2013,Chennai Super Kings
+423,2013,Sunrisers Hyderabad
+424,2013,Delhi Daredevils
+425,2013,Chennai Super Kings
+426,2013,Royal Challengers Bangalore
+427,2013,Kolkata Knight Riders
+428,2013,Sunrisers Hyderabad
+429,2013,Kings XI Punjab
+430,2013,Mumbai Indians
+431,2013,Rajasthan Royals
+432,2013,Royal Challengers Bangalore
+433,2013,Rajasthan Royals
+434,2013,Mumbai Indians
+435,2013,Chennai Super Kings
+436,2013,Rajasthan Royals
+437,2013,Kolkata Knight Riders
+438,2013,Royal Challengers Bangalore
+439,2013,Mumbai Indians
+440,2013,Sunrisers Hyderabad
+441,2013,Kolkata Knight Riders
+442,2013,Rajasthan Royals
+443,2013,Kings XI Punjab
+444,2013,Mumbai Indians
+445,2013,Pune Warriors
+446,2013,Chennai Super Kings
+447,2013,Mumbai Indians
+448,2013,Kings XI Punjab
+449,2013,Sunrisers Hyderabad
+450,2013,Kings XI Punjab
+451,2013,Pune Warriors
+452,2013,Royal Challengers Bangalore
+453,2013,Sunrisers Hyderabad
+454,2013,Chennai Super Kings
+455,2013,Rajasthan Royals
+456,2013,Mumbai Indians
+457,2013,Mumbai Indians
+458,2014,Kolkata Knight Riders
+459,2014,Royal Challengers Bangalore
+460,2014,Kings XI Punjab
+461,2014,Rajasthan Royals
+462,2014,Royal Challengers Bangalore
+463,2014,Delhi Daredevils
+464,2014,Kings XI Punjab
+465,2014,Chennai Super Kings
+466,2014,Kings XI Punjab
+467,2014,Chennai Super Kings
+468,2014,Kolkata Knight Riders
+469,2014,Sunrisers Hyderabad
+470,2014,Chennai Super Kings
+471,2014,Rajasthan Royals
+472,2014,Kings XI Punjab
+473,2014,Delhi Daredevils
+474,2014,Chennai Super Kings
+475,2014,Kings XI Punjab
+476,2014,Rajasthan Royals
+477,2014,Sunrisers Hyderabad
+478,2014,Chennai Super Kings
+479,2014,Mumbai Indians
+480,2014,Rajasthan Royals
+481,2014,Royal Challengers Bangalore
+482,2014,Rajasthan Royals
+483,2014,Chennai Super Kings
+484,2014,Mumbai Indians
+485,2014,Kolkata Knight Riders
+486,2014,Kings XI Punjab
+487,2014,Sunrisers Hyderabad
+488,2014,Kings XI Punjab
+489,2014,Sunrisers Hyderabad
+490,2014,Chennai Super Kings
+491,2014,Kolkata Knight Riders
+492,2014,Rajasthan Royals
+493,2014,Mumbai Indians
+494,2014,Chennai Super Kings
+495,2014,Royal Challengers Bangalore
+496,2014,Kings XI Punjab
+497,2014,Kolkata Knight Riders
+498,2014,Rajasthan Royals
+499,2014,Royal Challengers Bangalore
+500,2014,Kolkata Knight Riders
+501,2014,Mumbai Indians
+502,2014,Kings XI Punjab
+503,2014,Sunrisers Hyderabad
+504,2014,Kolkata Knight Riders
+505,2014,Mumbai Indians
+506,2014,Kolkata Knight Riders
+507,2014,Sunrisers Hyderabad
+508,2014,Mumbai Indians
+509,2014,Kings XI Punjab
+510,2014,Chennai Super Kings
+511,2014,Kolkata Knight Riders
+512,2014,Kings XI Punjab
+513,2014,Mumbai Indians
+514,2014,Kolkata Knight Riders
+515,2014,Chennai Super Kings
+516,2014,Kings XI Punjab
+517,2014,Kolkata Knight Riders
+518,2015,Kolkata Knight Riders
+519,2015,Chennai Super Kings
+520,2015,Rajasthan Royals
+521,2015,Chennai Super Kings
+522,2015,Royal Challengers Bangalore
+523,2015,Rajasthan Royals
+524,2015,Kings XI Punjab
+525,2015,Sunrisers Hyderabad
+526,2015,Rajasthan Royals
+527,2015,Kolkata Knight Riders
+528,2015,Delhi Daredevils
+529,2015,Rajasthan Royals
+530,2015,Chennai Super Kings
+531,2015,Delhi Daredevils
+532,2015,Kolkata Knight Riders
+533,2015,Rajasthan Royals
+534,2015,Mumbai Indians
+535,2015,Kolkata Knight Riders
+536,2015,Kings XI Punjab
+537,2015,Sunrisers Hyderabad
+538,2015,Chennai Super Kings
+539,2015,Delhi Daredevils
+540,2015,Royal Challengers Bangalore
+541,2015,Mumbai Indians
+542,2015,Chennai Super Kings
+543,2015,Royal Challengers Bangalore
+544,2015,Sunrisers Hyderabad
+545,2015,Kolkata Knight Riders
+546,2015,
+547,2015,Chennai Super Kings
+548,2015,Delhi Daredevils
+549,2015,Mumbai Indians
+550,2015,Royal Challengers Bangalore
+551,2015,Sunrisers Hyderabad
+552,2015,Mumbai Indians
+553,2015,Rajasthan Royals
+554,2015,Chennai Super Kings
+555,2015,Kolkata Knight Riders
+556,2015,Mumbai Indians
+557,2015,Royal Challengers Bangalore
+558,2015,Sunrisers Hyderabad
+559,2015,Mumbai Indians
+560,2015,Kolkata Knight Riders
+561,2015,Sunrisers Hyderabad
+562,2015,Royal Challengers Bangalore
+563,2015,Chennai Super Kings
+564,2015,Sunrisers Hyderabad
+565,2015,Delhi Daredevils
+566,2015,Kings XI Punjab
+567,2015,Mumbai Indians
+568,2015,Royal Challengers Bangalore
+569,2015,Chennai Super Kings
+570,2015,Rajasthan Royals
+571,2015,
+572,2015,Mumbai Indians
+573,2015,Mumbai Indians
+574,2015,Royal Challengers Bangalore
+575,2015,Chennai Super Kings
+576,2015,Mumbai Indians
+577,2016,Rising Pune Supergiants
+578,2016,Kolkata Knight Riders
+579,2016,Gujarat Lions
+580,2016,Royal Challengers Bangalore
+581,2016,Mumbai Indians
+582,2016,Gujarat Lions
+583,2016,Delhi Daredevils
+584,2016,Kolkata Knight Riders
+585,2016,Gujarat Lions
+586,2016,Kings XI Punjab
+587,2016,Delhi Daredevils
+588,2016,Sunrisers Hyderabad
+589,2016,Kolkata Knight Riders
+590,2016,Mumbai Indians
+591,2016,Sunrisers Hyderabad
+592,2016,Royal Challengers Bangalore
+593,2016,Delhi Daredevils
+594,2016,Sunrisers Hyderabad
+595,2016,Gujarat Lions
+596,2016,Kolkata Knight Riders
+597,2016,Mumbai Indians
+598,2016,Rising Pune Supergiants
+599,2016,Gujarat Lions
+600,2016,Mumbai Indians
+601,2016,Gujarat Lions
+602,2016,Delhi Daredevils
+603,2016,Sunrisers Hyderabad
+604,2016,Kings XI Punjab
+605,2016,Mumbai Indians
+606,2016,Kolkata Knight Riders
+607,2016,Delhi Daredevils
+608,2016,Kolkata Knight Riders
+609,2016,Rising Pune Supergiants
+610,2016,Sunrisers Hyderabad
+611,2016,Royal Challengers Bangalore
+612,2016,Kings XI Punjab
+613,2016,Sunrisers Hyderabad
+614,2016,Gujarat Lions
+615,2016,Royal Challengers Bangalore
+616,2016,Sunrisers Hyderabad
+617,2016,Mumbai Indians
+618,2016,Delhi Daredevils
+619,2016,Kings XI Punjab
+620,2016,Royal Challengers Bangalore
+621,2016,Kolkata Knight Riders
+622,2016,Sunrisers Hyderabad
+623,2016,Mumbai Indians
+624,2016,Royal Challengers Bangalore
+625,2016,Rising Pune Supergiants
+626,2016,Royal Challengers Bangalore
+627,2016,Gujarat Lions
+628,2016,Delhi Daredevils
+629,2016,Rising Pune Supergiants
+630,2016,Gujarat Lions
+631,2016,Kolkata Knight Riders
+632,2016,Royal Challengers Bangalore
+633,2016,Royal Challengers Bangalore
+634,2016,Sunrisers Hyderabad
+635,2016,Sunrisers Hyderabad
+636,2016,Sunrisers Hyderabad
